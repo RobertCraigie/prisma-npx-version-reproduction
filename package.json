@@ -1,0 +1,16 @@
+{
+  "name": "prisma-npx-version-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertCraigie/prisma-npx-version-reproduction.git"
+  },
+  "scripts": {
+    "generator": "ts-node src"
+  },
+  "dependencies": {
+    "@prisma/generator-helper": "^3.6.0",
+    "ts-node": "^10.4.0"
+  }
+}
